@@ -1,0 +1,26 @@
+/*body{
+	background-image: url(images/bg.jpg);
+	background-size: cover;
+}*/
+#carl{
+ padding:50px;
+}
+.carl{
+	width: 200px;
+	height: 200px;
+}
+#int{ color: blue;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.formcap{
+
+	outline: none	;
+	border-radius: 50px;
+	border-color: yellow;
+   color: white;
+   background-color: black;
+  text-align: center
+  ;
+}
